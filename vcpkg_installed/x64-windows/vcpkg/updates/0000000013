@@ -1,9 +1,0 @@
-Package: openal-soft
-Version: 1.23.1
-Port-Version: 1
-Depends: vcpkg-cmake, vcpkg-cmake-config
-Architecture: x64-windows
-Multi-Arch: same
-Abi: 052669f18c7a19810769fb67793bde6f58e9309c2d3089c18bb4bb9c383928a4
-Description: OpenAL Soft is an LGPL-licensed, cross-platform, software implementation of the OpenAL 3D audio API.
-Status: install ok installed
